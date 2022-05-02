@@ -25,7 +25,7 @@ on:
        default: solutions/
 env:
 #edit your values here
-  ENVIRONMENT_URL: 'gammon.crm.dynamics.com'
+  ENVIRONMENT_URL: 'https://gammon.crm.dynamics.com'
   CLIENT_ID: '6415c66a-2216-48d5-8379-98558d436ef5'
   TENANT_ID: '2b230876-ab57-4a94-9dd1-1a0ff97ba0c5'
 
